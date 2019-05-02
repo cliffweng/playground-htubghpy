@@ -1,10 +1,10 @@
 title: Learn Python in 1 Day
 plan:
-- title: Learn Python in 1 Day Lesson Overview
-  statement: 0_overview.md
 - title: Chapter 1. Language Basics
   description: These are the building blocks of the languages.
   plan:
+  - title: Learn Python in 1 Day Lesson Overview
+    statement: 0_overview.md
   - title: Lesson 1. Variables
     statement: 1_hello_world.md
   - title: Lesson 2. Variables and Functions
