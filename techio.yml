@@ -1,4 +1,28 @@
 title: Learn Python in 1 Day
 plan:
-- title: Python Snippet
-  statement: statement.md
+- title: Learn Python in 1 Day Lesson Overview
+  statement: 0_overview.md
+- title: Chapter 1. Language Basics
+  description: These are the building blocks of the languages.
+  plan:
+  - title: Lesson 1. Variables
+    statement: 1_hello_world.md
+  - title: Lesson 2. Variables and Functions
+    statement: 2_variables.md
+  - title: Lesson 3. Data Types
+    statement: 3_data_types.md
+  - title: Lesson 4. Control and Loops
+    statement: 4_control_loops.md
+- title: Chapter 2. Advanced Concepts
+  description: These are slightly advanced topics of the language.
+  plan:
+  - title: Lesson 5. String, List & Array
+    statement: 5_string_list_array.md
+  - title: Lesson 6. Data Structures
+    statement: 6_datastructures.md
+  - title: Lesson 7. Functions
+    statement: 7_functions.md
+  - title: Lesson 8. Classes
+    statement: 8_classes.md
+- title: Chapter 3. Level Up
+- title: Chapter 4. Big Data
