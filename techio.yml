@@ -5,9 +5,9 @@ plan:
   plan:
   - title: Learn Python in 1 Day Lesson Overview
     statement: 0_overview.md
-  - title: Lesson 1. Variables
+  - title: Lesson 1. Hello World
     statement: 1_hello_world.md
-  - title: Lesson 2. Variables and Functions
+  - title: Lesson 2. Variables
     statement: 2_variables.md
   - title: Lesson 3. Data Types
     statement: 3_data_types.md
