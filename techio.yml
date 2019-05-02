@@ -25,4 +25,12 @@ plan:
   - title: Lesson 8. Classes
     statement: 8_classes.md
 - title: Chapter 3. Level Up
+  description: Level Up Topics.
+  plan:
+  - title: Lesson 9. LevelUp TBD
+    statement: 0_overview.md
 - title: Chapter 4. Big Data
+  description: These are slightly advanced topics of the language.
+  plan:
+  - title: Lesson 9. Big Data TBD
+    statement: 0_overview.md
